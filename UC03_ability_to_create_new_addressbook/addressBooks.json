@@ -1,0 +1,25 @@
+{
+  "Personal": [],
+  "Work": [
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "address": "456 Market St",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip": "90001",
+      "phone": "9123456789",
+      "email": "alice.smith@example.com"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "address": "456 Market St",
+      "city": "Berkhera pathani",
+      "state": "California",
+      "zip": "90001",
+      "phone": "9123456789",
+      "email": "alice.smith@example.com"
+    }
+  ]
+}
