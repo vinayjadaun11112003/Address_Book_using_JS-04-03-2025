@@ -67,7 +67,7 @@ class AddressBookApp {
 
     viewContacts(bookName) {
         if (!this.addressBooks[bookName]) {
-            console.log(`Address Book '${bookName}' does not exist.`);
+            console.log(`Address Book '${bookName}' does'nt exist.`);
             return;
         }
         console.log(`Contacts in '${bookName}':`, this.addressBooks[bookName]);
